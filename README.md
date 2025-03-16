@@ -1,6 +1,6 @@
 # My Agency Website
 
-Welcome to the repository for **My Agency Website**. This is a professional website showcasing our services, projects, and company information.
+This repository contains the source code for a modern, responsive, and visually appealing Software Company Website built with Vite + React. The website offers a clean UI and smooth user experience, perfect for showcasing innovative software solutions.
 
 ## Features
 
@@ -9,9 +9,4 @@ Welcome to the repository for **My Agency Website**. This is a professional webs
 - **Project Showcase:** Highlights of our completed projects.
 - **Contact Form:** A way for potential clients to reach out to us.
 
-## Technologies Used
-
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS , Ant-design ,
-- **Backend:** Firebase (for authentication and database)
-- **Version Control:** Git, GitHub
 
